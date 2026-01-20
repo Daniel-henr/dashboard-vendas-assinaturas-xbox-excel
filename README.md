@@ -1,5 +1,3 @@
-# dashboard-vendas-assinaturas-xbox-excel
-
 # Análise de Vendas de Assinaturas Xbox - Dashboard Excel
 
 Este projeto faz parte do bootcamp de Ciência de Dados com Python da DIO. O desafio consistiu em transformar uma base de dados bruta de vendas de planos Xbox em um dashboard estratégico para tomada de decisão.
